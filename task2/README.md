@@ -1,4 +1,4 @@
-My Task Manager 📝💖
+My Task Manager 
 
 Hey! This is my To-Do List web app designed to help you manage daily tasks easily. It’s simple, interactive, and visually appealing, with cool animations and a soft pink theme that’s easy on the eyes.
 
